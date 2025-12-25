@@ -27,6 +27,7 @@ while temp>0:
         print("The given number {} is a Palindrome".format(num)) 
     else: 
         print("The given number {} is not a palindrome".format(num))
+```
  Output
 <img width="740" height="138" alt="image" src="https://github.com/user-attachments/assets/0444ad07-3f9f-4217-8371-3d77bd27f64c" />
 
